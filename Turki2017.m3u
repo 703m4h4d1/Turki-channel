@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 Fox TV
+https://59c7ea6bec1c6.streamlock.net/live/foxtv/playlist.m3u8
+#EXTINF:-1 show TV
+https://59c7ea6bec1c6.streamlock.net/live/showtv/playlist.m3u8
+#EXTINF:-1 ATV HD
+https://59c7ea6bec1c6.streamlock.net/live/atv/playlist.m3u8
+#EXTINF:-1,TRT HD
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TRT Sport
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1,Dost TV
